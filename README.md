@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Azib Tanveer  
 
-<!--
-**azib98/azib98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MSc Software Engineering Student in Germany  
+🌍 Frontend Developer | WordPress | React | Next.js | Laravel  
+🎯 Passionate about performance optimization & clean UI/UX  
+📫 Reach me at: azib2468@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+- **Languages**: JavaScript, PHP, Python  
+- **Frameworks**: React, Next.js, Laravel  
+- **CMS**: WordPress (Custom Themes, ACF, Elementor)  
+- **Other Tools**: Git, Figma, TailwindCSS, Cloudflare  
+
+---
+
+## 🌱 Current Focus  
+- Learning **German 🇩🇪**  
+- Working on **Software Optimization projects**  
+- Building my **portfolio website**  
+
+---
+
+## 📊 GitHub Stats
+![Azib's GitHub stats](https://github-readme-stats.vercel.app/api?username=azibtanveer&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/azib-tanveer-7405a61b3/))  
+- [Portfolio](https://yourportfolio.com)  
