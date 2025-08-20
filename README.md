@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Azib's GitHub stats](https://github-readme-stats.vercel.app/api?username=azib98&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 - [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/azib-tanveer-7405a61b3/))  
 - [Portfolio]([https://yourportfolio.com](https://www.behance.net/azibtanveerr))  
