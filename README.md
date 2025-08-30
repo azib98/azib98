@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Skills & Tools  
-- **Languages**: JavaScript, PHP, Python  
+- **Languages**: JavaScript, TypeScript, PHP, Python  
 - **Frameworks**: React, Next.js, Laravel  
 - **CMS**: WordPress (Custom Themes, ACF, Elementor)  
 - **Other Tools**: Git, Figma, TailwindCSS, Cloudflare  
