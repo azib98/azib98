@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Azib Tanveer  
 
 💻 MSc Software Engineering Student in Germany  
-🌍 Frontend Developer | WordPress | React | Next.js | Laravel  
+🌍 Fullstack Developer | React.js | Next.js | Node.js | Laravel | Wordpress  
 🎯 Passionate about performance optimization & clean UI/UX  
 📫 Reach me at: azib2468@gmail.com  
 
