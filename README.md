@@ -23,5 +23,5 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/azib-tanveer-7405a61b3/))  
-- [Portfolio]([https://yourportfolio.com](https://www.behance.net/azibtanveerr))  
+- [LinkedIn](https://www.linkedin.com/in/azib-tanveer-7405a61b3/)  
+- [Portfolio](https://azib98.github.io/publicportfolio/)  
